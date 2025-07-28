@@ -1,23 +1,21 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: starseo5
+about🥓
+title: ''onyx
+labels: ''jimmyjohnn
+assignees: ''alt starseo5
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**steal a brainrot***
+ /steal grapus medusi
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
+1. Go to base 
+2. Click on starseo5
+3. Scroll down to error598
+4. See /DOWNLOAD
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
